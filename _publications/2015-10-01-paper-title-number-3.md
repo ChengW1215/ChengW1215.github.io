@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-07-15-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-07-15
-venue: 'Journal 1'
+venue: 'Fuel'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: '(https://doi.org/10.1016/j.fuel.2024.131612)'
 citation: 'Cheng Wang, Fengsheng Zhan, Shan Wang, Yi Wei, Jianbing Ji. (2024). &quot;Molten salts coupled Ni/Al2O3 for hydrogen from CH4 pyrolysis at mild temperature in bubble-cap reactor.&quot; <i>Fuel</i>. 131612.'

@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Chemical Engineering and Technology, Zhejiang University of Technology, 2024
+* B.S. in Chemical Engineering and Technology, Qingdao University of Science and Technology, 2021
 
-Work experience
+Intership experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jul.2021 – Aug.2021 : Research and Development Intern
+  * CHAMBROAD PETROCHEMICALS COMPANY
+  * Location: Binzhou, China
+  * Task Description: According to the requirements of the department, designed a catalyst for industrial gasoline production.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct.2020 – Nov.2020 : Production Intern
+  * SINOPEC QILU PETROCHEMICAL COMPANY
+  * Location: Zibo, China
+  * Task Description: Design the tower in the process according to the requirements of the department.
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,31 +33,28 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Instruments: GC-2014C, GC-MS, SEM, Elementar Vairo MACRO element analyzer, Thermo Scientific Nicolet iS20 FT-IR Fourier Transform in-situ Infrared spectrometer, TGA, IKA C2000 calorimeter, etc.
+* Software: Origin, JADE, Auto CAD, Omnic, Chemdraw, Matlab, Aspen Plus, etc.
+* Language: English, Mandarin(native)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#  
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
+#  
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
